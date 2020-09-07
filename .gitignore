@@ -68,3 +68,4 @@ node_modules/
 dist/
 out-tsc/
 serviceAccount.json
+functions/
